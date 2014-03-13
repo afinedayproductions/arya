@@ -1,0 +1,20 @@
+/* TEAM */
+	Developer: Benoît BOUR
+	Website: www.sublimeweb.fr
+	Twitter: @
+	From: Toulouse, France
+
+	Developer: Fabien MATHIS
+	Website: www.afinedayproductions.fr
+	Twitter: @afinedayproduct
+	From: Toulouse, France
+
+	Design: Fabien MATHIS
+	Website: www.afinedayproductions.fr
+	Twitter: @afinedayproduct
+	From: Toulouse, France
+
+/* APP */
+	URL: —
+	Standard: AngularJS, PhoneGap
+	Softwares: SublimeText2
